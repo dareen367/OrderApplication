@@ -9,5 +9,9 @@ package com.evision.orderapplication.service;
  * @author zeynatghallab
  */
 public interface OrderService {
+    public void CreateOrderService();
+    public void UpdateOrderService();
+    public void DeleteOrderService();
+    public void ReadOrderService();
     
 }
